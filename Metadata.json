@@ -1,0 +1,20 @@
+{
+    "Author": "Aman Dhally",
+    "ContentSize": 4209,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-export-the-list-of-all-azure-vm-images-list-in-to-csv-or-in-html-format/master/Export-VmImageList.ps1",
+    "DownloadCount": 1649,
+    "Id": "Azure-Get-the-List-of-all-520816af",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 220,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-2-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "If you are working on Microsoft Azure, the one thing which all do all the time is, running the Get-AzureVMImage cmdlet time to time, to get the list of all OS images. It's a tiresome job if you need to find all of them and then select a single one, you have to write a code if y",
+    "Title": "Azure :Export the List of all Azure VM Images List in to CSV or in HTML Format",
+    "UpdatedDate": "2015-2-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-export-the-list-of-all-azure-vm-images-list-in-to-csv-or-in-html-format",
+    "UserTags": "Microsoft Azure, aman dhally, Azure and PowerShell"
+}
